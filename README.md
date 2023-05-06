@@ -1,3 +1,4 @@
+Project done using python django framework in the backend and bootstrap and css in the frontend with javascript
 Ecom website with api for products:in the api folder
 my project have two applications api and chat
 in chat i have functionalities for home with search options in browse category we can search category
